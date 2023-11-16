@@ -1,5 +1,8 @@
 _repo: China-under-the-Empress-Dowager-b-Being-the-history-of-the-life-and-times-of-Tzu-Hsi_72032
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72032-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Backhouse, Edmund
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5866
     wikipedia: https://en.wikipedia.org/wiki/John_Otway_Percy_Bland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72032#China-under-the-Empress-Dowager-b-Being-the-history-of-the-life-and-times-of-Tzu-Hsi
 gutenberg_issued: '2023-11-04'
 identifiers:
   gutenberg: '72032'
